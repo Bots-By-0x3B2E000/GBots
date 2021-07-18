@@ -1,2 +1,2 @@
-# Bot
-Bot By 0x3B2E000
+# Bots
+Bots By 0x3B2E000
